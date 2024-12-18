@@ -1,1 +1,3 @@
-print ("hello world")
+destino = input("Destino:")
+print = ("Quires viajar a " + destino)
+
